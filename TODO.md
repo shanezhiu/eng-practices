@@ -1,4 +1,4 @@
-# google工程实践指南
+# Google工程实践指南
 
 + Date Created: Mar 03, 2020 2:58 PM
 
@@ -8,7 +8,7 @@
 
 + URL: https://github.com/google/eng-practices
 
-# TOLIST
+# TODO List
 
 - [ ]  Readme
 
