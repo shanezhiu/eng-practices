@@ -6,7 +6,7 @@ best practices that we have developed over time. It is possible that open source
 projects or other organizations would benefit from this knowledge, so we work to
 make it available publicly when possible.
 
-Google 拥有许多涵盖所有语言和项目通用实践．这些文档代表着我们这些年来最佳的集体实践经验．开源项目或者组织可能从这些只是中受益，因此，我们将在可能的情况公开这些文档．
+Google 拥有许多涵盖所有语言和项目通用实践．这些文档代表着我们这些年来最佳的集体实践经验．开源项目或者组织可能从这些知识中受益，因此，我们将在可能的情况公开这些文档．
 
 Currently this contains the following documents:
 
@@ -41,7 +41,9 @@ encourages you to share these documents. See
 <https://creativecommons.org/licenses/by/3.0/> for more details.
 本文档采用了鼓励用户分享文档的[CC-By 3.0 License][1]
 
+## 标注
+[self-contained change][2]
+
 [1]:https://creativecommons.org/licenses/by/3.0/ "CC-By 3.0 License"
-
+[2]:https://docs.fedoraproject.org/en-US/program_management/changes_policy/ "self-contained change"
 <a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a> 
-
