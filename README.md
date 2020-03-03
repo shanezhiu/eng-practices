@@ -1,33 +1,14 @@
-# Google Engineering Practices Documentation
+## Google工程实践指南翻译
 
-Google has many generalized engineering practices that cover all languages and
-all projects. These documents represent our collective experience of various
-best practices that we have developed over time. It is possible that open source
-projects or other organizations would benefit from this knowledge, so we work to
-make it available publicly when possible.
+### 翻译流程
 
-Currently this contains the following documents:
++ fork仓库
++ 新建issue认领待翻译文章
++ 按照[翻译规范](翻译规范.md)翻译文章
++ 翻译完成后，将文章放入tranlations目录下
++ 提交PR
++ 校对通过后合并
 
-*   [Google's Code Review Guidelines](review/index.md), which are actually two
-    separate sets of documents:
-    *   [The Code Reviewer's Guide](review/reviewer/index.md)
-    *   [The Change Author's Guide](review/developer/index.md)
+### TODO 
 
-## Terminology
-
-There is some Google-internal terminology used in some of these documents, which
-we clarify here for external readers:
-
-*   **CL**: Stands for "changelist," which means one self-contained change that
-    has been submitted to version control or which is undergoing code review.
-    Other organizations often call this a "change" or a "patch."
-*   **LGTM**: Means "Looks Good to Me." It is what a code reviewer says when
-    approving a CL.
-
-## License
-
-The documents in this project are licensed under the CC-By 3.0 License, which
-encourages you to share these documents. See
-<https://creativecommons.org/licenses/by/3.0/> for more details.
-
-<a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
++ [TODO][TODO.md]
