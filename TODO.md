@@ -10,7 +10,7 @@
 
 # TODO List
 
-- [ ]  Readme
+- [X]  Readme
 
 ## Google's Code Review Guidelines
 
