@@ -22,7 +22,6 @@ Google 拥有许多涵盖所有语言和项目通用实践．这些文档代表�
 
 ## License
 
-<https://creativecommons.org/licenses/by/3.0/> for more details.
 本文档采用了[CC-By 3.0 License][1],该许可鼓励用户分享文档．
 
 [1]:https://creativecommons.org/licenses/by/3.0/ "CC-By 3.0 License"
